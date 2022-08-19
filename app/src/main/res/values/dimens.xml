@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="music_title_text_size">28sp</dimen>
+    <dimen name="music_artist_text_size">20sp</dimen>
+    <dimen name="music_time_text_size">12sp</dimen>
+    <dimen name="music_time_margin_left">32px</dimen>
+    <dimen name="music_time_margin_right">32px</dimen>
+
+    <dimen name="play_button_width">150px</dimen>
+    <dimen name="play_button_height">150px</dimen>
+
+    <dimen name="prev_next_button_width">130px</dimen>
+    <dimen name="pprev_next_button_height">130px</dimen>
+
+    <dimen name="shuffle_repeat_button_width">110px</dimen>
+    <dimen name="shuffle_repeat_button_height">110px</dimen>
+
+    <dimen name="titlebar_height">90px</dimen>
+
+    <dimen name="musiclist_width">571px</dimen>
+    <dimen name="musiclist_height">540px</dimen>
+
+    <dimen name="line_div_height">540px</dimen>
+</resources>
